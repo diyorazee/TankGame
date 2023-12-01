@@ -51,3 +51,15 @@ we can run the game by double-clicking the jar file("tankgame.jar") found in the
 |  Shoot        |   Q      |   ENTER Key        |
 
 <!-- you may add more controls if you need to. -->
+
+## Tank Game Class Diagram:
+<img width="826" alt="Screenshot 2023-12-01 at 1 07 47 PM" src="https://github.com/diyorazee/TankGame/assets/77911335/9ea2bd2e-1ff4-4006-bf9e-3cdb2c216965">
+
+## TANK GAME 
+<img width="708" alt="Screenshot 2023-12-01 at 1 09 56 PM" src="https://github.com/diyorazee/TankGame/assets/77911335/e5ae74fd-c0dd-4d77-bfa8-ca4cdd3f63ea">
+
+<img width="846" alt="Screenshot 2023-12-01 at 1 08 51 PM" src="https://github.com/diyorazee/TankGame/assets/77911335/e96c7050-8834-4702-b7a0-4d37cc4acf3d">
+
+
+
+
