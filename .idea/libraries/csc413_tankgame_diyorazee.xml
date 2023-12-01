@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="csc413-tankgame-diyorazee">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/csc413_tankgame_diyorazee_jar/csc413-tankgame-diyorazee.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
